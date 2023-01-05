@@ -2,18 +2,18 @@
 
 ## **My name is Hernán, buy my friends call me Marra**
 
-#### _About me:_
+### _About me:_
 
-- ##### Full-Stack Web Developer
-- ##### Mobile (Android) Development student
-- ##### Bilingual ( 🇪🇸 / 🇺🇸 )
-- ##### Technophile since birth
-- ##### Ever curious about the world of programming and game development
-- ##### Currently going through [The Odin Project][top] and looking for my first job ( hire me! ;) )
+- #### Full-Stack Web Developer
+- #### Mobile (Android) Development student
+- #### Bilingual ( 🇪🇸 / 🇺🇸 )
+- #### Technophile since birth
+- #### Ever curious about the world of programming and game development
+- #### Currently going through [The Odin Project][top] and looking for my first job ( hire me! ;) )
 
 ---
 
-#### 🔨 ️Current tech stack and tools:
+## 🔨 ️Current tech stack and tools:
 
 <img align='left' alt='HTML' width='40px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
 <img align='left' alt='CSS' width='40px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
