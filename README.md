@@ -1,6 +1,6 @@
-<p style='font-size: 48px'> 👋 Hi there! </p>
+# 👋 Hi there! 
 
-<p style='font-size: 32px'> My name is Hernán, but my friends call me Marra </p>
+## My name is Hernán, but my friends call me Marra
 
 ### _About me:_
 
@@ -13,7 +13,7 @@
 
 ---
 
-<p style='font-size: 32px'> 🔨 ️Current tech stack and tools: </p>
+# 🔨 ️Current tech stack and tools:
 
 <img align='left' alt='HTML' width='40px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
 <img align='left' alt='CSS' width='40px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
