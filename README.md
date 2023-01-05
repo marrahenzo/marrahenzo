@@ -1,6 +1,6 @@
 <h1> 👋 Hi there! </h1>
 
-<h2> **My name is Hernán, buy my friends call me Marra** </h1>
+<h2> **My name is Hernán, but my friends call me Marra** </h1>
 
 ### _About me:_
 
@@ -13,7 +13,7 @@
 
 ---
 
-<h1> 🔨 ️Current tech stack and tools: </h1>
+<h1 style='border: 0'> 🔨 ️Current tech stack and tools: </h1>
 
 <img align='left' alt='HTML' width='40px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
 <img align='left' alt='CSS' width='40px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
