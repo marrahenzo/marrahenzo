@@ -9,7 +9,7 @@
 - #### Bilingual ( 🇪🇸 / 🇺🇸 )
 - #### Technophile since birth
 - #### Ever curious about the world of programming and game development
-- #### Currently going through [The Odin Project][top] and looking for my first job ( hire me! ;) )
+- #### Currently going through [The Odin Project][top]
 
 ---
 
